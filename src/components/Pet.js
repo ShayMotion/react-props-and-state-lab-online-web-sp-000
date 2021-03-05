@@ -1,5 +1,3 @@
-30 lines (28 sloc)  940 Bytes
-  
 import React from 'react'
 
 class Pet extends React.Component {
